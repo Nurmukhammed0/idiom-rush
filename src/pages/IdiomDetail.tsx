@@ -15,6 +15,7 @@ export default function IdiomDetail() {
   const progress = useAppStore((s) => (id ? s.progress[id] : undefined));
   const toggleFavorite = useAppStore((s) => s.toggleFavorite);
   const showTranslations = useAppStore((s) => s.stats.showTranslations);
+  const learned = (progress?.reviewCount ?? 0) > 0;
 
   if (!idiom) {
     return (
@@ -86,15 +87,23 @@ export default function IdiomDetail() {
 
         <div className="mt-6 pt-5 border-t border-gray-100 flex flex-wrap items-center gap-3">
           <ListenButtons text={idiom.idiom} />
-          <Button variant="secondary" size="sm" onClick={() => navigate(`/speaking?idiom=${idiom.id}`)}>
-            <Mic size={16} /> Практика произношения
-          </Button>
+          {learned && (
+            <Button variant="secondary" size="sm" onClick={() => navigate(`/speaking?idiom=${idiom.id}`)}>
+              <Mic size={16} /> Практика произношения
+            </Button>
+          )}
         </div>
       </Card>
 
-      <Button fullWidth size="lg" onClick={() => navigate(`/practice?idiom=${idiom.id}`)}>
-        Практиковать эту идиому
-      </Button>
+      {learned ? (
+        <Button fullWidth size="lg" onClick={() => navigate(`/practice?idiom=${idiom.id}`)}>
+          Практиковать эту идиому
+        </Button>
+      ) : (
+        <Button fullWidth size="lg" onClick={() => navigate(`/learn?idiom=${idiom.id}`)}>
+          Изучить эту идиому
+        </Button>
+      )}
     </div>
   );
 }

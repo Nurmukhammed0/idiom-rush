@@ -42,6 +42,11 @@ const DEFAULT_STATS: UserStats = {
   soundEnabled: true,
 };
 
+export interface ResumePosition {
+  mode: 'learn' | 'practice';
+  idiomId: string;
+}
+
 interface AppState {
   stats: UserStats;
   progress: Record<string, IdiomProgress>;
@@ -50,6 +55,8 @@ interface AppState {
   dailyActivity: Record<string, DailyActivity>;
   unlockedAchievements: string[];
   newlyUnlocked: string[];
+  resume: ResumePosition | null;
+  sidebarCollapsed: boolean;
 
   // derived helpers
   getProgress: (idiomId: string) => IdiomProgress;
@@ -74,6 +81,10 @@ interface AppState {
   clearNewlyUnlocked: () => void;
   resetAllData: () => void;
   loadDemoData: () => void;
+  setResume: (resume: ResumePosition | null) => void;
+  setSidebarCollapsed: (collapsed: boolean) => void;
+  getLearnedIdioms: () => Idiom[];
+  isLearned: (idiomId: string) => boolean;
 }
 
 function recalcAchievements(get: () => AppState, set: (partial: Partial<AppState>) => void) {
@@ -101,6 +112,14 @@ export const useAppStore = create<AppState>()(
       dailyActivity: {},
       unlockedAchievements: [],
       newlyUnlocked: [],
+      resume: null,
+      sidebarCollapsed: false,
+
+      getLearnedIdioms: () => {
+        const s = get();
+        return IDIOMS.filter((idiom) => (s.progress[idiom.id]?.reviewCount ?? 0) > 0);
+      },
+      isLearned: (idiomId) => (get().progress[idiomId]?.reviewCount ?? 0) > 0,
 
       getProgress: (idiomId) => get().progress[idiomId] ?? createFreshProgress(idiomId),
 
@@ -264,6 +283,8 @@ export const useAppStore = create<AppState>()(
       setShowTranslations: (show) => set((s) => ({ stats: { ...s.stats, showTranslations: show } })),
       setSoundEnabled: (enabled) => set((s) => ({ stats: { ...s.stats, soundEnabled: enabled } })),
       clearNewlyUnlocked: () => set({ newlyUnlocked: [] }),
+      setResume: (resume) => set({ resume }),
+      setSidebarCollapsed: (sidebarCollapsed) => set({ sidebarCollapsed }),
 
       resetAllData: () =>
         set({
@@ -274,6 +295,7 @@ export const useAppStore = create<AppState>()(
           dailyActivity: {},
           unlockedAchievements: [],
           newlyUnlocked: [],
+          resume: null,
         }),
 
       loadDemoData: () => {

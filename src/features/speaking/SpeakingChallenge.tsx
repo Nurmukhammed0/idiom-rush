@@ -22,7 +22,15 @@ const ERROR_MESSAGES: Record<string, string> = {
   unknown: 'Что-то пошло не так. Попробуйте ещё раз.',
 };
 
-export function SpeakingChallenge({ idiom, mode }: { idiom: Idiom; mode: SpeakingMode }) {
+export function SpeakingChallenge({
+  idiom,
+  mode,
+  onContinue,
+}: {
+  idiom: Idiom;
+  mode: SpeakingMode;
+  onContinue?: () => void;
+}) {
   const recordSpeakingAttempt = useAppStore((s) => s.recordSpeakingAttempt);
   const recognition = useSpeechRecognition();
   const recorder = useAudioRecorder();
@@ -85,13 +93,16 @@ export function SpeakingChallenge({ idiom, mode }: { idiom: Idiom; mode: Speakin
       </div>
 
       {showFallback ? (
-        <FallbackRecorder recorder={recorder} />
+        <FallbackRecorder recorder={recorder} onContinue={onContinue} />
       ) : (
         <>
           {recognition.error && (
-            <div className="mb-4 p-3 rounded-xl bg-[var(--color-danger-light)] flex items-start gap-2 text-sm text-red-800">
-              <AlertCircle size={18} className="shrink-0 mt-0.5" />
-              {ERROR_MESSAGES[recognition.error.kind] ?? ERROR_MESSAGES.unknown}
+            <div className="mb-4 space-y-3">
+              <div className="p-3 rounded-xl bg-[var(--color-danger-light)] flex items-start gap-2 text-sm text-red-800">
+                <AlertCircle size={18} className="shrink-0 mt-0.5" />
+                {ERROR_MESSAGES[recognition.error.kind] ?? ERROR_MESSAGES.unknown}
+              </div>
+              {onContinue && <Button variant="secondary" onClick={onContinue}>Пропустить и продолжить →</Button>}
             </div>
           )}
 
@@ -125,7 +136,10 @@ export function SpeakingChallenge({ idiom, mode }: { idiom: Idiom; mode: Speakin
               <p className="text-xs text-gray-400">
                 Оценка основана на распознанном тексте и уверенности браузера в распознавании — это не точный фонетический анализ произношения.
               </p>
-              <Button variant="secondary" onClick={tryAgain}><RotateCcw size={16} /> Попробовать снова</Button>
+              <div className="flex gap-3">
+                <Button variant="secondary" onClick={tryAgain}><RotateCcw size={16} /> Попробовать снова</Button>
+                {onContinue && <Button onClick={onContinue}>Далее →</Button>}
+              </div>
             </div>
           )}
         </>
@@ -134,21 +148,27 @@ export function SpeakingChallenge({ idiom, mode }: { idiom: Idiom; mode: Speakin
   );
 }
 
-function FallbackRecorder({ recorder }: { recorder: ReturnType<typeof useAudioRecorder> }) {
+function FallbackRecorder({ recorder, onContinue }: { recorder: ReturnType<typeof useAudioRecorder>; onContinue?: () => void }) {
   return (
     <div className="flex flex-col items-center py-4 gap-4">
       <p className="text-sm text-gray-500 text-center max-w-sm">
-        Автоматическое распознавание речи недоступно в этом браузере. Вы всё равно можете записать себя и прослушать произношение.
+        Автоматическое распознавание речи недоступно в этом браузере. Вы всё равно можете записать себя и прослушать произношение — мы честно не будем притворяться, что можем оценить его автоматически.
       </p>
       {recorder.state === 'unsupported' && <p className="text-sm text-red-600">Запись аудио тоже не поддерживается этим браузером.</p>}
       {recorder.state === 'permission-denied' && <p className="text-sm text-red-600">Доступ к микрофону запрещён.</p>}
       {recorder.audioUrl ? (
         <div className="flex flex-col items-center gap-3">
           <audio controls src={recorder.audioUrl} />
-          <Button variant="secondary" size="sm" onClick={recorder.reset}><RotateCcw size={14} /> Записать снова</Button>
+          <div className="flex gap-3">
+            <Button variant="secondary" size="sm" onClick={recorder.reset}><RotateCcw size={14} /> Записать снова</Button>
+            {onContinue && <Button size="sm" onClick={onContinue}>Далее →</Button>}
+          </div>
         </div>
       ) : (
-        <MicButton listening={recorder.state === 'recording'} onClick={recorder.state === 'recording' ? recorder.stop : recorder.start} />
+        <>
+          <MicButton listening={recorder.state === 'recording'} onClick={recorder.state === 'recording' ? recorder.stop : recorder.start} />
+          {onContinue && <Button variant="ghost" size="sm" onClick={onContinue}>Пропустить →</Button>}
+        </>
       )}
     </div>
   );

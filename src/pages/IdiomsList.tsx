@@ -93,9 +93,10 @@ export default function IdiomsList() {
                     {p?.isFavorite && <Star size={16} className="text-amber-400 fill-amber-400 shrink-0" />}
                   </div>
                   <p className="text-sm text-gray-500 mb-3 line-clamp-2">{idiom.meaning_en}</p>
-                  <div className="flex items-center justify-between">
+                  <div className="flex items-center gap-2 flex-wrap">
                     <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-gray-100 text-gray-600">{idiom.level}</span>
-                    <MasteryBadge score={p?.masteryScore ?? 0} showLabel={false} />
+                    <span className="text-xs font-semibold px-2 py-0.5 rounded-full bg-gray-100 text-gray-600">{idiom.category}</span>
+                    <span className="ml-auto"><MasteryBadge score={p?.masteryScore ?? 0} showLabel={false} /></span>
                   </div>
                 </Card>
               );

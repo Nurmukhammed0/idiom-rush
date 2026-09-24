@@ -4,6 +4,7 @@ import { useAppStore } from '@/store/useAppStore';
 import Landing from '@/pages/Landing';
 import Onboarding from '@/pages/Onboarding';
 import Dashboard from '@/pages/Dashboard';
+import Learn from '@/pages/Learn';
 import Practice from '@/pages/Practice';
 import IdiomsList from '@/pages/IdiomsList';
 import IdiomDetail from '@/pages/IdiomDetail';
@@ -12,7 +13,6 @@ import Speaking from '@/pages/Speaking';
 import ProgressPage from '@/pages/Progress';
 import Achievements from '@/pages/Achievements';
 import Settings from '@/pages/Settings';
-import AchievementToast from '@/components/AchievementToast';
 
 function RequireOnboarding({ children }: { children: React.ReactNode }) {
   const complete = useAppStore((s) => s.stats.onboardingComplete);
@@ -23,7 +23,6 @@ function RequireOnboarding({ children }: { children: React.ReactNode }) {
 export default function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
-      <AchievementToast />
       <Routes>
         <Route path="/" element={<Landing />} />
         <Route path="/onboarding" element={<Onboarding />} />
@@ -35,6 +34,7 @@ export default function App() {
           }
         >
           <Route path="/dashboard" element={<Dashboard />} />
+          <Route path="/learn" element={<Learn />} />
           <Route path="/practice" element={<Practice />} />
           <Route path="/idioms" element={<IdiomsList />} />
           <Route path="/idioms/:id" element={<IdiomDetail />} />
