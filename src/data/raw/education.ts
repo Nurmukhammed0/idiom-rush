@@ -6,7 +6,6 @@ export const EDUCATION: RawIdiom[] = [
   ["learn by heart", "to memorize something completely", "выучить наизусть", "We had to learn the poem by heart for class.", "A2"],
   ["a straight-A student", "a student who gets top grades in everything", "отличник", "He's always been a straight-A student.", "A2"],
   ["cram for an exam", "to study intensively in a short time before a test", "зубрить перед экзаменом", "She stayed up all night cramming for the exam.", "B1"],
-  ["think on the same wavelength", "to think similarly to someone else", "мыслить на одной волне", "My study partner and I think on the same wavelength.", "B2"],
   ["a food for thought", "something worth thinking seriously about", "пища для размышлений", "The lecture gave the students a lot of food for thought.", "B1"],
   ["teacher's pet", "a student who is a teacher's favorite", "любимчик учителя", "He's always been the teacher's pet in math class.", "A2"],
   ["skip class", "to intentionally not attend a class", "прогулять урок", "He got in trouble for skipping class twice this week.", "A2"],

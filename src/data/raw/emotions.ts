@@ -15,7 +15,6 @@ export const EMOTIONS: RawIdiom[] = [
   ["a nervous wreck", "someone who is extremely anxious", "комок нервов", "She was a nervous wreck before the interview.", "B2"],
   ["cry your eyes out", "to cry intensely for a long time", "выплакать все глаза", "She cried her eyes out after watching the sad film.", "B1"],
   ["in high spirits", "feeling happy and enthusiastic", "в приподнятом настроении", "The team was in high spirits after their win.", "B2"],
-  ["cold feet", "nervous hesitation before doing something important", "холодный пот, страх перед важным делом", "He got cold feet right before his speech.", "B1"],
   ["on pins and needles", "very anxious or nervous while waiting for something", "как на иголках", "We were on pins and needles waiting for the exam results.", "B2"],
   ["a weight off your shoulders", "a great relief from worry or responsibility", "камень с плеч", "Finishing the report was a weight off my shoulders.", "B1"],
   ["boil over", "to reach a point where anger can no longer be controlled", "закипать от злости", "His frustration finally boiled over during the meeting.", "C1"],

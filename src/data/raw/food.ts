@@ -10,7 +10,6 @@ export const FOOD: RawIdiom[] = [
   ["not my cup of tea", "not something you enjoy or are interested in", "не в моём вкусе", "Horror movies are just not my cup of tea.", "B1"],
   ["butter someone up", "to flatter someone to gain a favor", "льстить, подлизываться", "He's been buttering up his boss before asking for a raise.", "B2"],
   ["the icing on the cake", "an extra good feature added to something already good", "вишенка на торте", "Getting a bonus was the icing on the cake after the promotion.", "B2"],
-  ["a hard nut to crack", "a difficult problem or person to deal with", "крепкий орешек", "That client is a hard nut to crack.", "B2"],
   ["sell like hot cakes", "to sell very quickly and in large quantities", "продаваться как горячие пирожки", "The new phone is selling like hot cakes.", "B1"],
   ["cry over spilled milk", "to be upset about something that has already happened and cannot be changed", "плакать над пролитым молоком", "It's done now, no use crying over spilled milk.", "B2"],
   ["egg someone on", "to encourage someone to do something, usually risky or unwise", "подстрекать, подбивать", "His friends egged him on to try the stunt.", "C1"],

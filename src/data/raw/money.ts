@@ -27,7 +27,6 @@ export const MONEY: RawIdiom[] = [
   ["a rich uncle", "a wealthy relative who might provide financial help", "богатый родственник, спонсор", "He jokes he needs a rich uncle to fund his startup.", "B1"],
   ["chip in", "to contribute money along with others", "скинуться, внести свою долю", "We all chipped in to buy her a nice gift.", "A2"],
   ["out of pocket", "paying with your own money rather than being reimbursed", "из своего кармана", "I had to pay the fee out of pocket.", "B2"],
-  ["a drop in the bucket", "a very small amount compared to what is needed", "капля в море", "The donation was a drop in the bucket compared to the total cost.", "B2"],
   ["hit the jackpot", "to have great and often sudden success or luck", "сорвать куш", "They hit the jackpot when their startup got acquired.", "B1"],
   ["cheapskate", "a person who is reluctant to spend money", "скряга, жмот", "Don't be such a cheapskate, treat yourself once in a while.", "B1"],
   ["in debt up to your ears", "owing a very large amount of money", "по уши в долгах", "After the divorce, he was in debt up to his ears.", "C1"],

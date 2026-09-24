@@ -789,27 +789,25 @@
     ]
   },
   {
-    "id": "get-your-foot-in-the-door-of-an-industry",
-    "idiom": "get your foot in the door of an industry",
-    "level": "B2",
-    "meaning_en": "to gain an initial opportunity to enter a competitive field",
-    "meaning_ru": "получить первый шанс попасть в отрасль",
-    "short_explanation": "to gain an initial opportunity to enter a competitive field",
-    "example_sentence": "The internship got her foot in the door of finance.",
-    "example_context": "Business • B2 English",
+    "id": "a-race-to-the-bottom",
+    "idiom": "a race to the bottom",
+    "level": "C1",
+    "meaning_en": "harmful competition where standards or prices keep dropping",
+    "meaning_ru": "гонка на понижение (цен, качества, стандартов)",
+    "short_explanation": "harmful competition where standards or prices keep dropping",
+    "example_sentence": "Discount airlines have triggered a race to the bottom on ticket prices.",
+    "example_context": "Business • C1 English",
     "category": "Business",
-    "pronunciation": "/ get your foot in the door of an industry /",
+    "pronunciation": "/ a race to the bottom /",
     "synonyms": [],
     "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
+    "commonness": "moderate",
+    "difficulty": 4.5,
     "tags": [
       "business",
-      "b2",
-      "get",
-      "foot",
-      "door",
-      "industry"
+      "c1",
+      "race",
+      "bottom"
     ]
   },
   {
@@ -1011,29 +1009,6 @@
     ]
   },
   {
-    "id": "hit-the-ground-running-in-business",
-    "idiom": "hit the ground running in business",
-    "level": "B2",
-    "meaning_en": "to start a new venture with immediate strong momentum",
-    "meaning_ru": "начать бизнес с уверенного старта",
-    "short_explanation": "to start a new venture with immediate strong momentum",
-    "example_sentence": "The new branch hit the ground running with strong first-month sales.",
-    "example_context": "Business • B2 English",
-    "category": "Business",
-    "pronunciation": "/ hit the ground running in business /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "business",
-      "b2",
-      "hit",
-      "ground",
-      "running"
-    ]
-  },
-  {
     "id": "a-shot-across-the-bow",
     "idiom": "a shot across the bow",
     "level": "C1",
@@ -1170,29 +1145,6 @@
       "words",
       "someones",
       "mouth"
-    ]
-  },
-  {
-    "id": "get-straight-to-the-point",
-    "idiom": "get straight to the point",
-    "level": "B1",
-    "meaning_en": "to say what you mean directly, without delay",
-    "meaning_ru": "перейти сразу к сути",
-    "short_explanation": "to say what you mean directly, without delay",
-    "example_sentence": "I'll get straight to the point: we're cutting the budget.",
-    "example_context": "Communication • B1 English",
-    "category": "Communication",
-    "pronunciation": "/ get straight to the point /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 2.5,
-    "tags": [
-      "communication",
-      "b1",
-      "get",
-      "straight",
-      "point"
     ]
   },
   {
@@ -2224,28 +2176,6 @@
     ]
   },
   {
-    "id": "sit-on-the-fence",
-    "idiom": "sit on the fence",
-    "level": "B1",
-    "meaning_en": "to avoid making a decision or choosing a side",
-    "meaning_ru": "занимать нейтральную позицию",
-    "short_explanation": "to avoid making a decision or choosing a side",
-    "example_sentence": "He's still sitting on the fence about the proposal.",
-    "example_context": "Decisions • B1 English",
-    "category": "Decisions",
-    "pronunciation": "/ sit on the fence /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 2,
-    "tags": [
-      "decisions",
-      "b1",
-      "sit",
-      "fence"
-    ]
-  },
-  {
     "id": "think-twice",
     "idiom": "think twice",
     "level": "A2",
@@ -3045,29 +2975,6 @@
     ]
   },
   {
-    "id": "think-on-the-same-wavelength",
-    "idiom": "think on the same wavelength",
-    "level": "B2",
-    "meaning_en": "to think similarly to someone else",
-    "meaning_ru": "мыслить на одной волне",
-    "short_explanation": "to think similarly to someone else",
-    "example_sentence": "My study partner and I think on the same wavelength.",
-    "example_context": "Education • B2 English",
-    "category": "Education",
-    "pronunciation": "/ think on the same wavelength /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "education",
-      "b2",
-      "think",
-      "same",
-      "wavelength"
-    ]
-  },
-  {
     "id": "teachers-pet",
     "idiom": "teacher's pet",
     "level": "A2",
@@ -3556,28 +3463,6 @@
     ]
   },
   {
-    "id": "go-over-your-head",
-    "idiom": "go over your head",
-    "level": "B2",
-    "meaning_en": "to be too difficult to understand",
-    "meaning_ru": "быть непонятным, выше понимания",
-    "short_explanation": "to be too difficult to understand",
-    "example_sentence": "The advanced lecture went right over my head.",
-    "example_context": "Education • B2 English",
-    "category": "Education",
-    "pronunciation": "/ go over your head /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "education",
-      "b2",
-      "over",
-      "head"
-    ]
-  },
-  {
     "id": "draw-a-blank",
     "idiom": "draw a blank",
     "level": "B2",
@@ -3641,29 +3526,6 @@
       "c1",
       "academic",
       "probation"
-    ]
-  },
-  {
-    "id": "hit-the-books-hard",
-    "idiom": "hit the books hard",
-    "level": "A2",
-    "meaning_en": "to study very intensively",
-    "meaning_ru": "усердно засесть за учёбу",
-    "short_explanation": "to study very intensively",
-    "example_sentence": "She's hitting the books hard before finals.",
-    "example_context": "Education • A2 English",
-    "category": "Education",
-    "pronunciation": "/ hit the books hard /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 1,
-    "tags": [
-      "education",
-      "a2",
-      "hit",
-      "books",
-      "hard"
     ]
   },
   {
@@ -3758,30 +3620,6 @@
     ]
   },
   {
-    "id": "a-steep-learning-curve-at-first",
-    "idiom": "a steep learning curve at first",
-    "level": "B2",
-    "meaning_en": "a subject that is hard to learn quickly at the beginning",
-    "meaning_ru": "трудное начало в освоении",
-    "short_explanation": "a subject that is hard to learn quickly at the beginning",
-    "example_sentence": "Coding has a steep learning curve at first, but gets easier.",
-    "example_context": "Education • B2 English",
-    "category": "Education",
-    "pronunciation": "/ a steep learning curve at first /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "education",
-      "b2",
-      "steep",
-      "learning",
-      "curve",
-      "first"
-    ]
-  },
-  {
     "id": "broaden-your-horizons",
     "idiom": "broaden your horizons",
     "level": "B1",
@@ -3801,28 +3639,6 @@
       "b1",
       "broaden",
       "horizons"
-    ]
-  },
-  {
-    "id": "food-for-the-brain",
-    "idiom": "food for the brain",
-    "level": "B2",
-    "meaning_en": "something intellectually stimulating and useful to learn",
-    "meaning_ru": "пища для ума",
-    "short_explanation": "something intellectually stimulating and useful to learn",
-    "example_sentence": "That podcast is real food for the brain.",
-    "example_context": "Education • B2 English",
-    "category": "Education",
-    "pronunciation": "/ food for the brain /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "education",
-      "b2",
-      "food",
-      "brain"
     ]
   },
   {
@@ -4133,28 +3949,6 @@
       "b2",
       "high",
       "spirits"
-    ]
-  },
-  {
-    "id": "cold-feet",
-    "idiom": "cold feet",
-    "level": "B1",
-    "meaning_en": "nervous hesitation before doing something important",
-    "meaning_ru": "холодный пот, страх перед важным делом",
-    "short_explanation": "nervous hesitation before doing something important",
-    "example_sentence": "He got cold feet right before his speech.",
-    "example_context": "Emotions • B1 English",
-    "category": "Emotions",
-    "pronunciation": "/ cold feet /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 2,
-    "tags": [
-      "emotions",
-      "b1",
-      "cold",
-      "feet"
     ]
   },
   {
@@ -6102,29 +5896,6 @@
     ]
   },
   {
-    "id": "long-story-short",
-    "idiom": "long story short",
-    "level": "A2",
-    "meaning_en": "to summarize briefly",
-    "meaning_ru": "короче говоря",
-    "short_explanation": "to summarize briefly",
-    "example_sentence": "Long story short, we missed the train and had to wait two hours.",
-    "example_context": "Everyday • A2 English",
-    "category": "Everyday",
-    "pronunciation": "/ long story short /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 1,
-    "tags": [
-      "everyday",
-      "a2",
-      "long",
-      "story",
-      "short"
-    ]
-  },
-  {
     "id": "give-it-a-shot",
     "idiom": "give it a shot",
     "level": "A2",
@@ -7255,29 +7026,6 @@
     ]
   },
   {
-    "id": "back-to-the-drawing-board",
-    "idiom": "back to the drawing board",
-    "level": "B2",
-    "meaning_en": "having to start planning again after a failure",
-    "meaning_ru": "снова к чертёжной доске",
-    "short_explanation": "having to start planning again after a failure",
-    "example_sentence": "The prototype failed, so it's back to the drawing board.",
-    "example_context": "Failure • B2 English",
-    "category": "Failure",
-    "pronunciation": "/ back to the drawing board /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "failure",
-      "b2",
-      "back",
-      "drawing",
-      "board"
-    ]
-  },
-  {
     "id": "a-lost-battle",
     "idiom": "a lost battle",
     "level": "B2",
@@ -7475,29 +7223,6 @@
       "b2",
       "icing",
       "cake"
-    ]
-  },
-  {
-    "id": "a-hard-nut-to-crack",
-    "idiom": "a hard nut to crack",
-    "level": "B2",
-    "meaning_en": "a difficult problem or person to deal with",
-    "meaning_ru": "крепкий орешек",
-    "short_explanation": "a difficult problem or person to deal with",
-    "example_sentence": "That client is a hard nut to crack.",
-    "example_context": "Food • B2 English",
-    "category": "Food",
-    "pronunciation": "/ a hard nut to crack /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "food",
-      "b2",
-      "hard",
-      "nut",
-      "crack"
     ]
   },
   {
@@ -8354,29 +8079,6 @@
     ]
   },
   {
-    "id": "get-a-clean-bill-of-health",
-    "idiom": "get a clean bill of health",
-    "level": "B2",
-    "meaning_en": "to be officially confirmed as healthy",
-    "meaning_ru": "получить подтверждение отличного здоровья",
-    "short_explanation": "to be officially confirmed as healthy",
-    "example_sentence": "After the tests, he got a clean bill of health.",
-    "example_context": "Health • B2 English",
-    "category": "Health",
-    "pronunciation": "/ get a clean bill of health /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "health",
-      "b2",
-      "get",
-      "clean",
-      "bill"
-    ]
-  },
-  {
     "id": "a-shot-in-the-arm",
     "idiom": "a shot in the arm",
     "level": "C1",
@@ -8911,28 +8613,6 @@
       "b2",
       "mental",
       "block"
-    ]
-  },
-  {
-    "id": "burn-yourself-out",
-    "idiom": "burn yourself out",
-    "level": "B2",
-    "meaning_en": "to exhaust yourself physically or mentally through overwork",
-    "meaning_ru": "довести себя до истощения",
-    "short_explanation": "to exhaust yourself physically or mentally through overwork",
-    "example_sentence": "He burned himself out trying to do everything alone.",
-    "example_context": "Health • B2 English",
-    "category": "Health",
-    "pronunciation": "/ burn yourself out /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "health",
-      "b2",
-      "burn",
-      "yourself"
     ]
   },
   {
@@ -9602,28 +9282,6 @@
     ]
   },
   {
-    "id": "a-drop-in-the-bucket",
-    "idiom": "a drop in the bucket",
-    "level": "B2",
-    "meaning_en": "a very small amount compared to what is needed",
-    "meaning_ru": "капля в море",
-    "short_explanation": "a very small amount compared to what is needed",
-    "example_sentence": "The donation was a drop in the bucket compared to the total cost.",
-    "example_context": "Money • B2 English",
-    "category": "Money",
-    "pronunciation": "/ a drop in the bucket /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "money",
-      "b2",
-      "drop",
-      "bucket"
-    ]
-  },
-  {
     "id": "hit-the-jackpot",
     "idiom": "hit the jackpot",
     "level": "B1",
@@ -10175,29 +9833,6 @@
       "b2",
       "elephant",
       "room"
-    ]
-  },
-  {
-    "id": "like-a-fish-out-of-water",
-    "idiom": "like a fish out of water",
-    "level": "B2",
-    "meaning_en": "feeling completely out of place",
-    "meaning_ru": "не в своей стихии",
-    "short_explanation": "feeling completely out of place",
-    "example_sentence": "She felt like a fish out of water at her first big conference.",
-    "example_context": "Other • B2 English",
-    "category": "Other",
-    "pronunciation": "/ like a fish out of water /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "other",
-      "b2",
-      "like",
-      "fish",
-      "water"
     ]
   },
   {
@@ -10989,29 +10624,6 @@
     ]
   },
   {
-    "id": "level-the-playing-field",
-    "idiom": "level the playing field",
-    "level": "C1",
-    "meaning_en": "to make conditions fair for everyone",
-    "meaning_ru": "уравнять шансы",
-    "short_explanation": "to make conditions fair for everyone",
-    "example_sentence": "The new rules leveled the playing field for small businesses.",
-    "example_context": "Other • C1 English",
-    "category": "Other",
-    "pronunciation": "/ level the playing field /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4,
-    "tags": [
-      "other",
-      "c1",
-      "level",
-      "playing",
-      "field"
-    ]
-  },
-  {
     "id": "a-home-run",
     "idiom": "a home run",
     "level": "B1",
@@ -11483,28 +11095,6 @@
     ]
   },
   {
-    "id": "back-on-your-feet",
-    "idiom": "back on your feet",
-    "level": "B1",
-    "meaning_en": "recovered financially, physically, or emotionally",
-    "meaning_ru": "снова встать на ноги",
-    "short_explanation": "recovered financially, physically, or emotionally",
-    "example_sentence": "It took a year, but the business is back on its feet.",
-    "example_context": "Other • B1 English",
-    "category": "Other",
-    "pronunciation": "/ back on your feet /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 2,
-    "tags": [
-      "other",
-      "b1",
-      "back",
-      "feet"
-    ]
-  },
-  {
     "id": "a-clean-slate",
     "idiom": "a clean slate",
     "level": "B1",
@@ -11794,28 +11384,6 @@
       "b2",
       "blessing",
       "curse"
-    ]
-  },
-  {
-    "id": "the-writing-is-on-the-wall",
-    "idiom": "the writing is on the wall",
-    "level": "C1",
-    "meaning_en": "clear signs that something bad is going to happen",
-    "meaning_ru": "все признаки говорят о неизбежном",
-    "short_explanation": "clear signs that something bad is going to happen",
-    "example_sentence": "The writing was on the wall long before the company closed.",
-    "example_context": "Other • C1 English",
-    "category": "Other",
-    "pronunciation": "/ the writing is on the wall /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4.5,
-    "tags": [
-      "other",
-      "c1",
-      "writing",
-      "wall"
     ]
   },
   {
@@ -13625,6 +13193,544 @@
     ]
   },
   {
+    "id": "put-your-foot-in-your-mouth",
+    "idiom": "put your foot in your mouth",
+    "level": "B2",
+    "meaning_en": "to say something embarrassing or tactless by mistake",
+    "meaning_ru": "сболтнуть лишнее",
+    "short_explanation": "to say something embarrassing or tactless by mistake",
+    "example_sentence": "I really put my foot in my mouth at dinner last night.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ put your foot in your mouth /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "put",
+      "foot",
+      "mouth"
+    ]
+  },
+  {
+    "id": "keep-your-head-above-water",
+    "idiom": "keep your head above water",
+    "level": "B2",
+    "meaning_en": "to manage to survive a difficult situation, especially financially",
+    "meaning_ru": "держаться на плаву",
+    "short_explanation": "to manage to survive a difficult situation, especially fi…",
+    "example_sentence": "They're barely keeping their head above water since the layoffs.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ keep your head above water /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "keep",
+      "head",
+      "above",
+      "water"
+    ]
+  },
+  {
+    "id": "lose-your-head",
+    "idiom": "lose your head",
+    "level": "B1",
+    "meaning_en": "to panic or lose self-control",
+    "meaning_ru": "потерять голову, запаниковать",
+    "short_explanation": "to panic or lose self-control",
+    "example_sentence": "Don't lose your head, we'll figure this out.",
+    "example_context": "Other • B1 English",
+    "category": "Other",
+    "pronunciation": "/ lose your head /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 2,
+    "tags": [
+      "other",
+      "b1",
+      "lose",
+      "head"
+    ]
+  },
+  {
+    "id": "use-your-head",
+    "idiom": "use your head",
+    "level": "A2",
+    "meaning_en": "to think carefully and sensibly",
+    "meaning_ru": "думать головой",
+    "short_explanation": "to think carefully and sensibly",
+    "example_sentence": "Use your head before making such a big decision.",
+    "example_context": "Other • A2 English",
+    "category": "Other",
+    "pronunciation": "/ use your head /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 1,
+    "tags": [
+      "other",
+      "a2",
+      "use",
+      "head"
+    ]
+  },
+  {
+    "id": "go-over-someones-head",
+    "idiom": "go over someone's head",
+    "level": "C1",
+    "meaning_en": "to bypass someone in authority and go to a higher level",
+    "meaning_ru": "обратиться через голову начальника",
+    "short_explanation": "to bypass someone in authority and go to a higher level",
+    "example_sentence": "She went over her manager's head to complain to HR.",
+    "example_context": "Other • C1 English",
+    "category": "Other",
+    "pronunciation": "/ go over someone's head /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4,
+    "tags": [
+      "other",
+      "c1",
+      "over",
+      "someones",
+      "head"
+    ]
+  },
+  {
+    "id": "get-a-leg-up",
+    "idiom": "get a leg up",
+    "level": "B2",
+    "meaning_en": "to get an advantage that helps you succeed",
+    "meaning_ru": "получить преимущество",
+    "short_explanation": "to get an advantage that helps you succeed",
+    "example_sentence": "The scholarship gave her a leg up in her career.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ get a leg up /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "get",
+      "leg"
+    ]
+  },
+  {
+    "id": "have-a-bone-to-pick-with-someone",
+    "idiom": "have a bone to pick with someone",
+    "level": "C1",
+    "meaning_en": "to want to discuss a disagreement with someone",
+    "meaning_ru": "иметь претензии к кому-то",
+    "short_explanation": "to want to discuss a disagreement with someone",
+    "example_sentence": "I have a bone to pick with you about last night.",
+    "example_context": "Other • C1 English",
+    "category": "Other",
+    "pronunciation": "/ have a bone to pick with someone /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4.5,
+    "tags": [
+      "other",
+      "c1",
+      "have",
+      "bone",
+      "pick"
+    ]
+  },
+  {
+    "id": "shoulder-the-blame",
+    "idiom": "shoulder the blame",
+    "level": "B2",
+    "meaning_en": "to accept responsibility for something bad",
+    "meaning_ru": "взять вину на себя",
+    "short_explanation": "to accept responsibility for something bad",
+    "example_sentence": "He shouldered the blame for the whole team's mistake.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ shoulder the blame /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "shoulder",
+      "blame"
+    ]
+  },
+  {
+    "id": "turn-your-nose-up-at-something",
+    "idiom": "turn your nose up at something",
+    "level": "B2",
+    "meaning_en": "to reject something as not good enough",
+    "meaning_ru": "воротить нос от чего-либо",
+    "short_explanation": "to reject something as not good enough",
+    "example_sentence": "She turned her nose up at the cheap wine.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ turn your nose up at something /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "turn",
+      "nose"
+    ]
+  },
+  {
+    "id": "keep-a-straight-face",
+    "idiom": "keep a straight face",
+    "level": "B1",
+    "meaning_en": "to avoid smiling or laughing",
+    "meaning_ru": "сохранять серьёзное выражение лица",
+    "short_explanation": "to avoid smiling or laughing",
+    "example_sentence": "I couldn't keep a straight face during his joke.",
+    "example_context": "Other • B1 English",
+    "category": "Other",
+    "pronunciation": "/ keep a straight face /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 2,
+    "tags": [
+      "other",
+      "b1",
+      "keep",
+      "straight",
+      "face"
+    ]
+  },
+  {
+    "id": "by-the-seat-of-your-pants",
+    "idiom": "by the seat of your pants",
+    "level": "C1",
+    "meaning_en": "doing something without proper planning, relying on instinct",
+    "meaning_ru": "действовать наугад, без подготовки",
+    "short_explanation": "doing something without proper planning, relying on instinct",
+    "example_sentence": "We finished the presentation by the seat of our pants.",
+    "example_context": "Other • C1 English",
+    "category": "Other",
+    "pronunciation": "/ by the seat of your pants /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4.5,
+    "tags": [
+      "other",
+      "c1",
+      "seat",
+      "pants"
+    ]
+  },
+  {
+    "id": "at-arms-length",
+    "idiom": "at arm's length",
+    "level": "B2",
+    "meaning_en": "keeping some emotional or physical distance from someone",
+    "meaning_ru": "на расстоянии, отстранённо",
+    "short_explanation": "keeping some emotional or physical distance from someone",
+    "example_sentence": "He's always kept his colleagues at arm's length.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ at arm's length /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "arms",
+      "length"
+    ]
+  },
+  {
+    "id": "have-eyes-in-the-back-of-your-head",
+    "idiom": "have eyes in the back of your head",
+    "level": "B2",
+    "meaning_en": "to be aware of everything happening around you",
+    "meaning_ru": "иметь глаза на затылке",
+    "short_explanation": "to be aware of everything happening around you",
+    "example_sentence": "Good teachers seem to have eyes in the back of their heads.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ have eyes in the back of your head /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "have",
+      "eyes",
+      "back",
+      "head"
+    ]
+  },
+  {
+    "id": "neck-and-neck",
+    "idiom": "neck and neck",
+    "level": "B2",
+    "meaning_en": "very close in a competition, almost equal",
+    "meaning_ru": "ноздря в ноздрю",
+    "short_explanation": "very close in a competition, almost equal",
+    "example_sentence": "The two runners were neck and neck until the final stretch.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ neck and neck /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "neck"
+    ]
+  },
+  {
+    "id": "up-to-your-neck-in-something",
+    "idiom": "up to your neck in something",
+    "level": "B2",
+    "meaning_en": "deeply involved in a difficult situation",
+    "meaning_ru": "по горло в делах/проблемах",
+    "short_explanation": "deeply involved in a difficult situation",
+    "example_sentence": "I'm up to my neck in work this week.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ up to your neck in something /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "neck"
+    ]
+  },
+  {
+    "id": "bite-your-tongue",
+    "idiom": "bite your tongue",
+    "level": "B2",
+    "meaning_en": "to stop yourself from saying something you want to say",
+    "meaning_ru": "прикусить язык",
+    "short_explanation": "to stop yourself from saying something you want to say",
+    "example_sentence": "I had to bite my tongue to avoid arguing with him.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ bite your tongue /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "bite",
+      "tongue"
+    ]
+  },
+  {
+    "id": "hold-your-tongue",
+    "idiom": "hold your tongue",
+    "level": "B2",
+    "meaning_en": "to stay silent even though you want to speak",
+    "meaning_ru": "придержать язык",
+    "short_explanation": "to stay silent even though you want to speak",
+    "example_sentence": "She held her tongue during the whole meeting.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ hold your tongue /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "other",
+      "b2",
+      "hold",
+      "tongue"
+    ]
+  },
+  {
+    "id": "have-a-frog-in-your-throat",
+    "idiom": "have a frog in your throat",
+    "level": "B2",
+    "meaning_en": "to have a hoarse voice, making it hard to speak clearly",
+    "meaning_ru": "охрипнуть, ком в горле",
+    "short_explanation": "to have a hoarse voice, making it hard to speak clearly",
+    "example_sentence": "Sorry, I have a frog in my throat today.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ have a frog in your throat /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "have",
+      "frog",
+      "throat"
+    ]
+  },
+  {
+    "id": "all-thumbs",
+    "idiom": "all thumbs",
+    "level": "C1",
+    "meaning_en": "clumsy, especially with your hands",
+    "meaning_ru": "руки-крюки, неуклюжий",
+    "short_explanation": "clumsy, especially with your hands",
+    "example_sentence": "He's all thumbs when it comes to fixing things.",
+    "example_context": "Other • C1 English",
+    "category": "Other",
+    "pronunciation": "/ all thumbs /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4,
+    "tags": [
+      "other",
+      "c1",
+      "all",
+      "thumbs"
+    ]
+  },
+  {
+    "id": "give-a-thumbs-up",
+    "idiom": "give a thumbs up",
+    "level": "A2",
+    "meaning_en": "to show approval",
+    "meaning_ru": "показать палец вверх, одобрить",
+    "short_explanation": "to show approval",
+    "example_sentence": "The client gave the design a thumbs up.",
+    "example_context": "Other • A2 English",
+    "category": "Other",
+    "pronunciation": "/ give a thumbs up /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 1,
+    "tags": [
+      "other",
+      "a2",
+      "give",
+      "thumbs"
+    ]
+  },
+  {
+    "id": "rule-with-an-iron-fist",
+    "idiom": "rule with an iron fist",
+    "level": "C1",
+    "meaning_en": "to control something very strictly and harshly",
+    "meaning_ru": "править железной рукой",
+    "short_explanation": "to control something very strictly and harshly",
+    "example_sentence": "The old manager ruled the department with an iron fist.",
+    "example_context": "Other • C1 English",
+    "category": "Other",
+    "pronunciation": "/ rule with an iron fist /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4.5,
+    "tags": [
+      "other",
+      "c1",
+      "rule",
+      "iron",
+      "fist"
+    ]
+  },
+  {
+    "id": "wear-your-heart-on-your-sleeve",
+    "idiom": "wear your heart on your sleeve",
+    "level": "B2",
+    "meaning_en": "to show your emotions openly",
+    "meaning_ru": "не скрывать своих чувств",
+    "short_explanation": "to show your emotions openly",
+    "example_sentence": "She wears her heart on her sleeve, you always know how she feels.",
+    "example_context": "Other • B2 English",
+    "category": "Other",
+    "pronunciation": "/ wear your heart on your sleeve /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "other",
+      "b2",
+      "wear",
+      "heart",
+      "sleeve"
+    ]
+  },
+  {
+    "id": "young-at-heart",
+    "idiom": "young at heart",
+    "level": "B1",
+    "meaning_en": "having a youthful attitude despite your age",
+    "meaning_ru": "молод душой",
+    "short_explanation": "having a youthful attitude despite your age",
+    "example_sentence": "My grandmother is eighty but still young at heart.",
+    "example_context": "Other • B1 English",
+    "category": "Other",
+    "pronunciation": "/ young at heart /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 2,
+    "tags": [
+      "other",
+      "b1",
+      "young",
+      "heart"
+    ]
+  },
+  {
+    "id": "from-the-bottom-of-your-heart",
+    "idiom": "from the bottom of your heart",
+    "level": "A2",
+    "meaning_en": "with deep sincerity",
+    "meaning_ru": "от всего сердца",
+    "short_explanation": "with deep sincerity",
+    "example_sentence": "Thank you from the bottom of my heart.",
+    "example_context": "Other • A2 English",
+    "category": "Other",
+    "pronunciation": "/ from the bottom of your heart /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 1.5,
+    "tags": [
+      "other",
+      "a2",
+      "from",
+      "bottom",
+      "heart"
+    ]
+  },
+  {
     "id": "a-heart-of-gold",
     "idiom": "a heart of gold",
     "level": "B1",
@@ -14722,28 +14828,6 @@
     ]
   },
   {
-    "id": "hit-a-wall",
-    "idiom": "hit a wall",
-    "level": "B2",
-    "meaning_en": "to reach a point where no further progress can be made",
-    "meaning_ru": "упереться в стену",
-    "short_explanation": "to reach a point where no further progress can be made",
-    "example_sentence": "The negotiations hit a wall over pricing.",
-    "example_context": "Problems • B2 English",
-    "category": "Problems",
-    "pronunciation": "/ hit a wall /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "problems",
-      "b2",
-      "hit",
-      "wall"
-    ]
-  },
-  {
     "id": "a-needle-in-a-haystack",
     "idiom": "a needle in a haystack",
     "level": "B1",
@@ -15196,28 +15280,6 @@
     ]
   },
   {
-    "id": "a-pandoras-box",
-    "idiom": "a Pandora's box",
-    "level": "C1",
-    "meaning_en": "a situation that once started creates many new problems",
-    "meaning_ru": "ящик Пандоры",
-    "short_explanation": "a situation that once started creates many new problems",
-    "example_sentence": "Reopening the case turned into a Pandora's box of legal issues.",
-    "example_context": "Problems • C1 English",
-    "category": "Problems",
-    "pronunciation": "/ a pandora's box /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4,
-    "tags": [
-      "problems",
-      "c1",
-      "pandoras",
-      "box"
-    ]
-  },
-  {
     "id": "a-recipe-for-disaster",
     "idiom": "a recipe for disaster",
     "level": "B2",
@@ -15282,29 +15344,6 @@
       "tough",
       "nut",
       "crack"
-    ]
-  },
-  {
-    "id": "throw-a-spanner-in-the-works",
-    "idiom": "throw a spanner in the works",
-    "level": "C1",
-    "meaning_en": "to cause a plan or process to fail",
-    "meaning_ru": "вставить палки в колёса",
-    "short_explanation": "to cause a plan or process to fail",
-    "example_sentence": "The sudden budget cut threw a spanner in the works.",
-    "example_context": "Problems • C1 English",
-    "category": "Problems",
-    "pronunciation": "/ throw a spanner in the works /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4.5,
-    "tags": [
-      "problems",
-      "c1",
-      "throw",
-      "spanner",
-      "works"
     ]
   },
   {
@@ -15439,29 +15478,6 @@
       "b2",
       "hang",
       "thread"
-    ]
-  },
-  {
-    "id": "open-a-can-of-worms",
-    "idiom": "open a can of worms",
-    "level": "B2",
-    "meaning_en": "to create a complicated situation by raising an issue",
-    "meaning_ru": "открыть ящик Пандоры, вызвать поток проблем",
-    "short_explanation": "to create a complicated situation by raising an issue",
-    "example_sentence": "Mentioning the salary difference opened a can of worms.",
-    "example_context": "Problems • B2 English",
-    "category": "Problems",
-    "pronunciation": "/ open a can of worms /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "problems",
-      "b2",
-      "open",
-      "can",
-      "worms"
     ]
   },
   {
@@ -15753,28 +15769,6 @@
       "match",
       "made",
       "heaven"
-    ]
-  },
-  {
-    "id": "burn-bridges",
-    "idiom": "burn bridges",
-    "level": "B2",
-    "meaning_en": "to permanently damage a relationship, making reconciliation impossible",
-    "meaning_ru": "сжечь мосты",
-    "short_explanation": "to permanently damage a relationship, making reconciliati…",
-    "example_sentence": "Don't burn bridges with your old colleagues; you might need them later.",
-    "example_context": "Relationships • B2 English",
-    "category": "Relationships",
-    "pronunciation": "/ burn bridges /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "relationships",
-      "b2",
-      "burn",
-      "bridges"
     ]
   },
   {
@@ -16173,29 +16167,6 @@
       "c1",
       "shotgun",
       "wedding"
-    ]
-  },
-  {
-    "id": "a-marriage-made-in-heaven",
-    "idiom": "a marriage made in heaven",
-    "level": "B2",
-    "meaning_en": "an ideal, perfectly harmonious relationship",
-    "meaning_ru": "брак, заключённый на небесах",
-    "short_explanation": "an ideal, perfectly harmonious relationship",
-    "example_sentence": "Their partnership seemed like a marriage made in heaven.",
-    "example_context": "Relationships • B2 English",
-    "category": "Relationships",
-    "pronunciation": "/ a marriage made in heaven /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
-    "tags": [
-      "relationships",
-      "b2",
-      "marriage",
-      "made",
-      "heaven"
     ]
   },
   {
@@ -17191,28 +17162,6 @@
     ]
   },
   {
-    "id": "hit-it-off-with-someone",
-    "idiom": "hit it off with someone",
-    "level": "B1",
-    "meaning_en": "to quickly form a good relationship with someone",
-    "meaning_ru": "сразу найти общий язык",
-    "short_explanation": "to quickly form a good relationship with someone",
-    "example_sentence": "The two new coworkers hit it off right away.",
-    "example_context": "Social Life • B1 English",
-    "category": "Social Life",
-    "pronunciation": "/ hit it off with someone /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 2.5,
-    "tags": [
-      "social-life",
-      "b1",
-      "hit",
-      "off"
-    ]
-  },
-  {
     "id": "outstay-your-welcome",
     "idiom": "outstay your welcome",
     "level": "C1",
@@ -17298,29 +17247,6 @@
       "b1",
       "fall",
       "touch"
-    ]
-  },
-  {
-    "id": "make-small-talk",
-    "idiom": "make small talk",
-    "level": "A2",
-    "meaning_en": "to have light, informal conversation",
-    "meaning_ru": "вести светскую беседу",
-    "short_explanation": "to have light, informal conversation",
-    "example_sentence": "He's good at making small talk with strangers.",
-    "example_context": "Social Life • A2 English",
-    "category": "Social Life",
-    "pronunciation": "/ make small talk /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "very common",
-    "difficulty": 1,
-    "tags": [
-      "social-life",
-      "a2",
-      "make",
-      "small",
-      "talk"
     ]
   },
   {
@@ -19780,28 +19706,6 @@
     ]
   },
   {
-    "id": "a-ticking-clock",
-    "idiom": "a ticking clock",
-    "level": "B2",
-    "meaning_en": "a sense of urgency because time is running out",
-    "meaning_ru": "тикающие часы, ощущение спешки",
-    "short_explanation": "a sense of urgency because time is running out",
-    "example_sentence": "With the deadline near, there was a ticking clock on every decision.",
-    "example_context": "Time • B2 English",
-    "category": "Time",
-    "pronunciation": "/ a ticking clock /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "time",
-      "b2",
-      "ticking",
-      "clock"
-    ]
-  },
-  {
     "id": "in-a-jiffy",
     "idiom": "in a jiffy",
     "level": "B1",
@@ -19843,27 +19747,6 @@
       "before",
       "you",
       "know"
-    ]
-  },
-  {
-    "id": "a-stitch-in-time",
-    "idiom": "a stitch in time",
-    "level": "B2",
-    "meaning_en": "acting early prevents bigger problems later (short form)",
-    "meaning_ru": "предупреждение лучше лечения",
-    "short_explanation": "acting early prevents bigger problems later (short form)",
-    "example_sentence": "Fix the small leak now, a stitch in time.",
-    "example_context": "Time • B2 English",
-    "category": "Time",
-    "pronunciation": "/ a stitch in time /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3,
-    "tags": [
-      "time",
-      "b2",
-      "stitch"
     ]
   },
   {
@@ -20306,29 +20189,6 @@
       "b2",
       "home",
       "bird"
-    ]
-  },
-  {
-    "id": "fly-by-the-seat-of-your-pants",
-    "idiom": "fly by the seat of your pants",
-    "level": "C1",
-    "meaning_en": "to do something without a plan, using instinct",
-    "meaning_ru": "действовать по наитию",
-    "short_explanation": "to do something without a plan, using instinct",
-    "example_sentence": "We had no map and flew by the seat of our pants across the country.",
-    "example_context": "Travel • C1 English",
-    "category": "Travel",
-    "pronunciation": "/ fly by the seat of your pants /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4.5,
-    "tags": [
-      "travel",
-      "c1",
-      "fly",
-      "seat",
-      "pants"
     ]
   },
   {
@@ -21161,29 +21021,6 @@
     ]
   },
   {
-    "id": "under-a-cloud-of-suspicion",
-    "idiom": "under a cloud of suspicion",
-    "level": "C1",
-    "meaning_en": "generally distrusted or suspected of wrongdoing",
-    "meaning_ru": "под подозрением",
-    "short_explanation": "generally distrusted or suspected of wrongdoing",
-    "example_sentence": "He's been working under a cloud of suspicion since the audit.",
-    "example_context": "Weather • C1 English",
-    "category": "Weather",
-    "pronunciation": "/ under a cloud of suspicion /",
-    "synonyms": [],
-    "antonyms": [],
-    "commonness": "moderate",
-    "difficulty": 4.5,
-    "tags": [
-      "weather",
-      "c1",
-      "under",
-      "cloud",
-      "suspicion"
-    ]
-  },
-  {
     "id": "as-cold-as-ice",
     "idiom": "as cold as ice",
     "level": "B2",
@@ -21336,6 +21173,160 @@
       "c1",
       "hail",
       "criticism"
+    ]
+  },
+  {
+    "id": "a-storm-in-a-teacup",
+    "idiom": "a storm in a teacup",
+    "level": "C1",
+    "meaning_en": "a lot of anger or worry about a small, unimportant matter",
+    "meaning_ru": "буря в стакане воды",
+    "short_explanation": "a lot of anger or worry about a small, unimportant matter",
+    "example_sentence": "The whole office argument was just a storm in a teacup.",
+    "example_context": "Weather • C1 English",
+    "category": "Weather",
+    "pronunciation": "/ a storm in a teacup /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4.5,
+    "tags": [
+      "weather",
+      "c1",
+      "storm",
+      "teacup"
+    ]
+  },
+  {
+    "id": "clear-the-air",
+    "idiom": "clear the air",
+    "level": "B2",
+    "meaning_en": "to resolve a disagreement or remove tension between people",
+    "meaning_ru": "разрядить обстановку, прояснить недоразумение",
+    "short_explanation": "to resolve a disagreement or remove tension between people",
+    "example_sentence": "They had a long talk to clear the air after the argument.",
+    "example_context": "Weather • B2 English",
+    "category": "Weather",
+    "pronunciation": "/ clear the air /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "weather",
+      "b2",
+      "clear",
+      "air"
+    ]
+  },
+  {
+    "id": "in-a-fog",
+    "idiom": "in a fog",
+    "level": "B2",
+    "meaning_en": "confused and unable to think clearly",
+    "meaning_ru": "как в тумане, ничего не соображать",
+    "short_explanation": "confused and unable to think clearly",
+    "example_sentence": "After the night shift, he was walking around in a fog.",
+    "example_context": "Weather • B2 English",
+    "category": "Weather",
+    "pronunciation": "/ in a fog /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3,
+    "tags": [
+      "weather",
+      "b2",
+      "fog"
+    ]
+  },
+  {
+    "id": "when-it-rains-it-pours",
+    "idiom": "when it rains, it pours",
+    "level": "B2",
+    "meaning_en": "difficult things tend to happen all at once",
+    "meaning_ru": "беда не приходит одна",
+    "short_explanation": "difficult things tend to happen all at once",
+    "example_sentence": "First the car broke down, then the roof leaked — when it rains, it pours.",
+    "example_context": "Weather • B2 English",
+    "category": "Weather",
+    "pronunciation": "/ when it rains, it pours /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "common",
+    "difficulty": 3.5,
+    "tags": [
+      "weather",
+      "b2",
+      "when",
+      "rains",
+      "pours"
+    ]
+  },
+  {
+    "id": "a-ray-of-hope",
+    "idiom": "a ray of hope",
+    "level": "B1",
+    "meaning_en": "a small sign that a difficult situation might improve",
+    "meaning_ru": "луч надежды",
+    "short_explanation": "a small sign that a difficult situation might improve",
+    "example_sentence": "The new treatment offered a ray of hope for the patients.",
+    "example_context": "Weather • B1 English",
+    "category": "Weather",
+    "pronunciation": "/ a ray of hope /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "very common",
+    "difficulty": 2,
+    "tags": [
+      "weather",
+      "b1",
+      "ray",
+      "hope"
+    ]
+  },
+  {
+    "id": "a-snow-job",
+    "idiom": "a snow job",
+    "level": "C2",
+    "meaning_en": "an attempt to deceive or persuade someone with exaggerated talk",
+    "meaning_ru": "заговаривание зубов, попытка обмануть красивыми словами",
+    "short_explanation": "an attempt to deceive or persuade someone with exaggerate…",
+    "example_sentence": "Don't fall for his snow job about the car's condition.",
+    "example_context": "Weather • C2 English",
+    "category": "Weather",
+    "pronunciation": "/ a snow job /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "rare",
+    "difficulty": 5,
+    "tags": [
+      "weather",
+      "c2",
+      "snow",
+      "job"
+    ]
+  },
+  {
+    "id": "an-indian-summer",
+    "idiom": "an Indian summer",
+    "level": "C1",
+    "meaning_en": "a period of unexpectedly warm, calm weather in autumn, or a late flourishing",
+    "meaning_ru": "бабье лето",
+    "short_explanation": "a period of unexpectedly warm, calm weather in autumn, or…",
+    "example_sentence": "The team enjoyed an Indian summer of success before retiring.",
+    "example_context": "Weather • C1 English",
+    "category": "Weather",
+    "pronunciation": "/ an indian summer /",
+    "synonyms": [],
+    "antonyms": [],
+    "commonness": "moderate",
+    "difficulty": 4,
+    "tags": [
+      "weather",
+      "c1",
+      "indian",
+      "summer"
     ]
   },
   {
@@ -21606,25 +21597,26 @@
     ]
   },
   {
-    "id": "a-foot-in-the-door",
-    "idiom": "a foot in the door",
-    "level": "B2",
-    "meaning_en": "an initial opportunity that could lead to success",
-    "meaning_ru": "первый шаг к успеху, зацепка",
-    "short_explanation": "an initial opportunity that could lead to success",
-    "example_sentence": "The internship gave her a foot in the door at the company.",
-    "example_context": "Work • B2 English",
+    "id": "climb-the-greasy-pole",
+    "idiom": "climb the greasy pole",
+    "level": "C1",
+    "meaning_en": "to work your way up a competitive career hierarchy",
+    "meaning_ru": "с трудом пробиваться наверх по карьерной лестнице",
+    "short_explanation": "to work your way up a competitive career hierarchy",
+    "example_sentence": "He spent twenty years climbing the greasy pole of politics.",
+    "example_context": "Work • C1 English",
     "category": "Work",
-    "pronunciation": "/ a foot in the door /",
+    "pronunciation": "/ climb the greasy pole /",
     "synonyms": [],
     "antonyms": [],
-    "commonness": "common",
-    "difficulty": 3.5,
+    "commonness": "moderate",
+    "difficulty": 4,
     "tags": [
       "work",
-      "b2",
-      "foot",
-      "door"
+      "c1",
+      "climb",
+      "greasy",
+      "pole"
     ]
   },
   {

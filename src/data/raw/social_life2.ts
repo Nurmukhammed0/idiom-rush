@@ -10,10 +10,8 @@ export const SOCIAL_LIFE2: RawIdiom[] = [
   ["a plus-one", "a guest you are allowed to bring to an event", "сопровождающий гость (плюс один)", "Am I allowed to bring a plus-one to the wedding?", "B1"],
   ["let's grab a bite", "an invitation to eat something together casually", "давай перекусим", "Let's grab a bite before the movie starts.", "A2"],
   ["a regular at a place", "someone who visits a place often", "завсегдатай", "He's a regular at that little coffee shop.", "A2"],
-  ["hit it off with someone", "to quickly form a good relationship with someone", "сразу найти общий язык", "The two new coworkers hit it off right away.", "B1"],
   ["outstay your welcome", "to stay somewhere longer than is polite or wanted", "злоупотребить гостеприимством", "I don't want to outstay my welcome, so I'll leave soon.", "C1"],
   ["a household name", "a person or brand that is very well known", "имя, известное каждому", "The company became a household name within a decade.", "B2"],
   ["keep in touch", "to continue communicating with someone regularly", "оставаться на связи", "Let's keep in touch after graduation.", "A2"],
   ["fall out of touch", "to gradually stop communicating with someone", "потерять связь друг с другом", "We fell out of touch after she moved abroad.", "B1"],
-  ["make small talk", "to have light, informal conversation", "вести светскую беседу", "He's good at making small talk with strangers.", "A2"],
 ];

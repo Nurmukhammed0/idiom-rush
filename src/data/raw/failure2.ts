@@ -11,7 +11,6 @@ export const FAILURE2: RawIdiom[] = [
   ["blow your chance", "to fail to take advantage of an opportunity", "упустить свой шанс", "He blew his chance to make a good first impression.", "B2"],
   ["a slap-dash effort", "work done carelessly and without enough attention", "халтура, небрежная работа", "The report was clearly a slap-dash effort.", "C2"],
   ["come up short", "to fail to meet a goal or expectation", "не дотянуть до цели", "Despite their effort, the team came up short in the final.", "B2"],
-  ["back to the drawing board", "having to start planning again after a failure", "снова к чертёжной доске", "The prototype failed, so it's back to the drawing board.", "B2"],
   ["a lost battle", "an effort that has already failed or cannot be won", "проигранная битва", "Trying to change his mind is a lost battle at this point.", "B2"],
   ["fall by the wayside", "to fail to continue or be abandoned along the way", "остаться на обочине, быть заброшенным", "Many of his early goals fell by the wayside.", "C1"],
   ["a shot that missed", "an attempt that did not succeed", "промахнувшаяся попытка", "The last-minute pitch was a shot that missed.", "B1"],

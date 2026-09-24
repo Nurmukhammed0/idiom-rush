@@ -6,7 +6,6 @@ export const DECISIONS: RawIdiom[] = [
   ["a gut feeling", "an instinct about what to do, without logical reason", "внутреннее чутьё", "My gut feeling told me not to trust him.", "B1"],
   ["cross that bridge when you come to it", "to deal with a problem only when it happens", "решать проблемы по мере поступления", "We don't need to decide now, we'll cross that bridge when we come to it.", "B2"],
   ["burn your bridges", "to make a decision that removes the possibility of returning", "сжечь мосты", "He burned his bridges by quitting without notice.", "B2"],
-  ["sit on the fence", "to avoid making a decision or choosing a side", "занимать нейтральную позицию", "He's still sitting on the fence about the proposal.", "B1"],
   ["think twice", "to reconsider carefully before acting", "хорошенько подумать", "You should think twice before quitting your job.", "A2"],
   ["a no-brainer", "a decision or choice that is very easy to make", "очевидное решение, не требующее раздумий", "Choosing the cheaper, better option was a no-brainer.", "B1"],
   ["jump to conclusions", "to decide something too quickly, without enough information", "делать поспешные выводы", "Don't jump to conclusions before hearing the whole story.", "B1"],

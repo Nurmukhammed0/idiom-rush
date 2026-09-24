@@ -2,7 +2,7 @@ import type { RawIdiom } from './types';
 
 export const BUSINESS2: RawIdiom[] = [
   ["a win-win", "an outcome that benefits all parties involved", "взаимовыгодный вариант", "The new pricing plan is a win-win for both sides.", "B1"],
-  ["get your foot in the door of an industry", "to gain an initial opportunity to enter a competitive field", "получить первый шанс попасть в отрасль", "The internship got her foot in the door of finance.", "B2"],
+  ["a race to the bottom", "harmful competition where standards or prices keep dropping", "гонка на понижение (цен, качества, стандартов)", "Discount airlines have triggered a race to the bottom on ticket prices.", "C1"],
   ["a shakeup", "a major, often sudden reorganization", "серьёзная реорганизация, встряска", "The company underwent a major shakeup after the merger.", "C1"],
   ["cut a deal", "to negotiate and reach an agreement", "заключить сделку", "The two companies cut a deal after weeks of talks.", "B2"],
   ["above board", "honest, open, and legal", "открыто и честно, без обмана", "All the transactions were completely above board.", "B2"],
@@ -12,7 +12,6 @@ export const BUSINESS2: RawIdiom[] = [
   ["an uphill task", "a very difficult challenge requiring great effort", "трудная задача, работа в гору", "Turning around the failing brand was an uphill task.", "B2"],
   ["put something on the back burner", "to postpone a task or project to deal with later", "отложить в долгий ящик", "We put the redesign on the back burner to focus on the launch.", "B2"],
   ["a red-letter day", "a significant and memorable day, often positive", "знаменательный день", "The day we signed the contract was a red-letter day for the firm.", "C2"],
-  ["hit the ground running in business", "to start a new venture with immediate strong momentum", "начать бизнес с уверенного старта", "The new branch hit the ground running with strong first-month sales.", "B2"],
   ["a shot across the bow", "a warning action meant to show serious intent", "предупредительный выстрел", "The lawsuit was seen as a shot across the bow to competitors.", "C1"],
   ["keep your eye on the ball", "to stay focused on the important goal", "не терять из виду главное", "In this market, you have to keep your eye on the ball.", "B1"],
   ["a leap forward", "a sudden, significant advance or improvement", "рывок вперёд", "The new technology represents a leap forward for the industry.", "B1"],

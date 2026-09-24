@@ -3,7 +3,6 @@ import type { RawIdiom } from './types';
 export const EVERYDAY2: RawIdiom[] = [
   ["a piece of your mind", "an honest, often critical, opinion given directly", "прямое, нелицеприятное мнение", "She gave the waiter a piece of her mind about the slow service.", "B2"],
   ["out of order", "not working correctly, or behaving inappropriately", "не в порядке, неисправно", "The elevator has been out of order all week.", "A2"],
-  ["long story short", "to summarize briefly", "короче говоря", "Long story short, we missed the train and had to wait two hours.", "A2"],
   ["give it a shot", "to attempt something", "попробовать", "I've never cooked this before, but I'll give it a shot.", "A2"],
   ["a piece of work", "a difficult or unusual person", "тот ещё фрукт, непростой человек", "Her new boss is quite a piece of work.", "C1"],
   ["at your own risk", "accepting responsibility for possible danger or loss", "на свой страх и риск", "You can try the shortcut, but at your own risk.", "B1"],

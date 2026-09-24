@@ -2,7 +2,6 @@ import type { RawIdiom } from './types';
 
 export const TRAVEL2: RawIdiom[] = [
   ["a home bird", "someone who prefers staying home rather than traveling", "домосед", "Unlike her sister, she's a real home bird.", "B2"],
-  ["fly by the seat of your pants", "to do something without a plan, using instinct", "действовать по наитию", "We had no map and flew by the seat of our pants across the country.", "C1"],
   ["get your bearings", "to figure out where you are or understand a new situation", "сориентироваться", "It took a day to get our bearings in the new city.", "B2"],
   ["hit the ground running", "to start something with great energy right away", "начать активно с места в карьер", "The new employee hit the ground running on her first day.", "B2"],
   ["the road less traveled", "an unusual or less popular path or choice", "нехоженая дорога, необычный путь", "He chose the road less traveled and moved to a small village.", "C1"],

@@ -1,7 +1,6 @@
 import type { RawIdiom } from './types';
 
 export const RELATIONSHIPS2: RawIdiom[] = [
-  ["a marriage made in heaven", "an ideal, perfectly harmonious relationship", "брак, заключённый на небесах", "Their partnership seemed like a marriage made in heaven.", "B2"],
   ["grow apart", "to gradually become less close to someone over time", "отдаляться друг от друга со временем", "The old friends grew apart after moving to different cities.", "B1"],
   ["on good terms with someone", "having a friendly relationship with someone", "быть в хороших отношениях", "Despite the divorce, they're still on good terms.", "B1"],
   ["on bad terms with someone", "having an unfriendly relationship with someone", "быть в плохих отношениях", "He's been on bad terms with his brother for years.", "B1"],

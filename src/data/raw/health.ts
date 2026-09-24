@@ -9,7 +9,6 @@ export const HEALTH: RawIdiom[] = [
   ["feel like a million dollars", "to feel extremely healthy and good", "чувствовать себя прекрасно", "After the massage, she felt like a million dollars.", "B1"],
   ["a bitter pill to swallow", "a difficult truth or situation to accept", "горькая пилюля", "The diagnosis was a bitter pill to swallow for the whole family.", "C1"],
   ["run yourself into the ground", "to make yourself sick or exhausted from overwork", "довести себя до изнеможения", "She ran herself into the ground preparing for the exams.", "B2"],
-  ["get a clean bill of health", "to be officially confirmed as healthy", "получить подтверждение отличного здоровья", "After the tests, he got a clean bill of health.", "B2"],
   ["a shot in the arm", "something that provides encouragement or a boost, often to health or morale", "заряд бодрости, поддержка", "The good news gave the whole team a shot in the arm.", "C1"],
   ["sick as a dog", "very ill", "болен как собака", "He's been sick as a dog with the flu all week.", "B1"],
   ["kick the habit", "to stop doing something addictive, like smoking", "бросить вредную привычку", "It took him three tries to finally kick the habit of smoking.", "B1"],

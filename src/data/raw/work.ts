@@ -13,7 +13,7 @@ export const WORK: RawIdiom[] = [
   ["on the same page", "having the same understanding or opinion as others", "быть на одной волне, единое понимание", "Let's make sure we're all on the same page before the client call.", "B1"],
   ["touch base", "to make brief contact or communication with someone", "связаться, обсудить вкратце", "Let's touch base next week about the project timeline.", "B2"],
   ["back to the grind", "returning to routine, often boring, work", "снова за работу, в рутину", "Vacation's over, back to the grind tomorrow.", "B2"],
-  ["a foot in the door", "an initial opportunity that could lead to success", "первый шаг к успеху, зацепка", "The internship gave her a foot in the door at the company.", "B2"],
+  ["climb the greasy pole", "to work your way up a competitive career hierarchy", "с трудом пробиваться наверх по карьерной лестнице", "He spent twenty years climbing the greasy pole of politics.", "C1"],
   ["cut to the chase", "to get to the point without wasting time", "перейти к сути, ближе к делу", "Let's cut to the chase, what exactly do you need from me?", "B1"],
   ["drop the ball", "to fail to do something you were responsible for", "облажаться, упустить дело", "Someone dropped the ball and the shipment never arrived.", "B2"],
   ["get down to business", "to start dealing with the main matter", "перейти к делу", "Enough small talk, let's get down to business.", "B1"],

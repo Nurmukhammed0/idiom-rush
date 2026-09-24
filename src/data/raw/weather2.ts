@@ -3,7 +3,6 @@ import type { RawIdiom } from './types';
 export const WEATHER2: RawIdiom[] = [
   ["clear skies ahead", "a period free of problems is expected", "впереди безоблачное будущее", "After the merger, the company sees clear skies ahead.", "B2"],
   ["a whirlwind romance", "a very fast-moving romantic relationship", "стремительный роман", "They had a whirlwind romance and married within months.", "B2"],
-  ["under a cloud of suspicion", "generally distrusted or suspected of wrongdoing", "под подозрением", "He's been working under a cloud of suspicion since the audit.", "C1"],
   ["as cold as ice", "very unfriendly or emotionless", "холодный как лёд", "His reply was as cold as ice.", "B2"],
   ["a whirlwind of activity", "a period of very busy, fast-paced action", "вихрь активности", "The office was a whirlwind of activity before the launch.", "B2"],
   ["blow over", "to be forgotten or become less serious over time", "утихнуть, забыться со временем", "Don't worry, the scandal will blow over eventually.", "B2"],

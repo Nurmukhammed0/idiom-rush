@@ -4,7 +4,6 @@ export const COMMUNICATION: RawIdiom[] = [
   ["get the message across", "to make sure people understand what you mean", "донести мысль до слушателей", "The teacher used pictures to get the message across.", "B1"],
   ["talk behind someone's back", "to say negative things about someone when they aren't present", "говорить за спиной", "It's rude to talk behind someone's back.", "B1"],
   ["put words in someone's mouth", "to claim someone said something they didn't", "приписывать чужие слова", "Don't put words in my mouth, I never said that.", "B2"],
-  ["get straight to the point", "to say what you mean directly, without delay", "перейти сразу к сути", "I'll get straight to the point: we're cutting the budget.", "B1"],
   ["talk someone's ear off", "to talk to someone for a very long time", "заговорить кого-то до смерти", "He talked my ear off about his vacation for an hour.", "B2"],
   ["drop a hint", "to suggest something indirectly", "намекнуть", "She dropped a hint about wanting flowers for her birthday.", "B1"],
   ["lost in translation", "meaning that is lost when something is translated or communicated", "теряется при переводе", "Some jokes just get lost in translation.", "B2"],

@@ -15,7 +15,6 @@ export const HEALTH2: RawIdiom[] = [
   ["get a grip on yourself", "to control your emotions and behave calmly", "взять себя в руки", "You need to get a grip on yourself before the surgery.", "B2"],
   ["push yourself to the limit", "to make the maximum physical or mental effort", "выложиться до предела", "The marathon runner pushed herself to the limit.", "B2"],
   ["a mental block", "an inability to think clearly about something, often due to stress", "ментальный блок", "I had a mental block during the exam and forgot everything.", "B2"],
-  ["burn yourself out", "to exhaust yourself physically or mentally through overwork", "довести себя до истощения", "He burned himself out trying to do everything alone.", "B2"],
   ["a healthy glow", "the appearance of good health, especially on the skin", "здоровый румянец", "After the hike, she had a healthy glow.", "B1"],
   ["nurse a cold", "to take care of yourself while recovering from a cold", "лечиться от простуды дома", "I'm just nursing a cold at home this weekend.", "A2"],
   ["a clean bill of health", "official confirmation of good health after a checkup", "полное подтверждение здоровья", "The vet gave the dog a clean bill of health.", "B2"],

@@ -12,7 +12,6 @@ export const PROBLEMS: RawIdiom[] = [
   ["nip something in the bud", "to stop a problem early before it grows", "пресечь в зародыше", "The manager nipped the conflict in the bud before it escalated.", "B2"],
   ["get out of a jam", "to escape a difficult situation", "выбраться из передряги", "A friend helped him get out of a jam when his car broke down.", "B2"],
   ["a vicious circle", "a situation where one problem causes another that makes the first worse", "порочный круг", "Debt and stress created a vicious circle for the family.", "B2"],
-  ["hit a wall", "to reach a point where no further progress can be made", "упереться в стену", "The negotiations hit a wall over pricing.", "B2"],
   ["a needle in a haystack", "something extremely difficult to find", "иголка в стоге сена", "Finding that one file on the server was like looking for a needle in a haystack.", "B1"],
   ["face the music", "to accept the negative consequences of your actions", "принять последствия, ответить за содеянное", "He finally had to face the music after missing the deadline.", "B2"],
   ["dig yourself into a hole", "to create a worse situation for yourself through your own actions", "загнать себя в угол", "He dug himself into a hole by lying about the numbers.", "B2"],

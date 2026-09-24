@@ -11,7 +11,6 @@ export const RELATIONSHIPS: RawIdiom[] = [
   ["give someone the cold shoulder", "to deliberately ignore or be unfriendly to someone", "холодно относиться, игнорировать", "She gave him the cold shoulder after their argument.", "B2"],
   ["kiss and make up", "to reconcile after an argument", "помириться после ссоры", "They had a fight, but they kissed and made up quickly.", "B1"],
   ["a match made in heaven", "a couple who are perfectly suited to each other", "идеальная пара", "Everyone says they're a match made in heaven.", "B1"],
-  ["burn bridges", "to permanently damage a relationship, making reconciliation impossible", "сжечь мосты", "Don't burn bridges with your old colleagues; you might need them later.", "B2"],
   ["see someone", "to be in a romantic relationship with someone", "встречаться с кем-то", "Are you seeing anyone right now?", "A2"],
   ["a love-hate relationship", "a relationship with mixed strong feelings of affection and dislike", "отношения любви-ненависти", "She has a love-hate relationship with her sister.", "B2"],
   ["stand someone up", "to fail to meet someone as arranged", "не прийти на свидание, продинамить", "He stood her up on their first date and never called back.", "B1"],
