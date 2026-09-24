@@ -1,0 +1,28 @@
+import type { RawIdiom } from './types';
+
+export const WEATHER: RawIdiom[] = [
+  ["under the weather", "feeling slightly ill", "неважно себя чувствовать", "I'm under the weather today, so I'll work from home.", "A2"],
+  ["it's raining cats and dogs", "it is raining very heavily", "льёт как из ведра", "Bring an umbrella, it's raining cats and dogs outside.", "A2"],
+  ["a storm is brewing", "trouble or conflict is developing", "назревает буря/конфликт", "You could tell a storm was brewing between the two coworkers.", "B2"],
+  ["chase rainbows", "to pursue something unrealistic or impossible", "гоняться за журавлём в небе", "He's been chasing rainbows with these get-rich-quick schemes.", "C1"],
+  ["every cloud has a silver lining", "there is something good in every bad situation", "нет худа без добра", "Losing the game was hard, but every cloud has a silver lining.", "B1"],
+  ["on cloud nine", "extremely happy", "на седьмом небе от счастья", "She's been on cloud nine since the engagement.", "B1"],
+  ["come rain or shine", "regardless of the circumstances or weather", "несмотря ни на что", "He goes for a run every morning, come rain or shine.", "B1"],
+  ["a ray of sunshine", "someone or something that brings happiness", "лучик солнца, радость", "Her visits are always a ray of sunshine for her grandmother.", "B1"],
+  ["take a rain check", "to postpone an invitation or plan to a later time", "перенести на другой раз", "Can I take a rain check on dinner tonight? I'm exhausted.", "B2"],
+  ["snowed under", "overwhelmed with a lot of work", "завален работой", "I've been completely snowed under with paperwork this week.", "B2"],
+  ["weather the storm", "to survive a difficult period", "пережить трудные времена", "The company managed to weather the storm during the crisis.", "B2"],
+  ["a fair-weather friend", "a friend who is only supportive when things are going well", "друг, который дружит только в хорошие времена", "He turned out to be just a fair-weather friend.", "C1"],
+  ["throw caution to the wind", "to act recklessly, ignoring risk", "отбросить осторожность", "She threw caution to the wind and quit her job to travel.", "C1"],
+  ["calm before the storm", "a peaceful period before trouble or difficulty begins", "затишье перед бурей", "The office was quiet, but it felt like the calm before the storm.", "B2"],
+  ["under a cloud", "suspected of doing something wrong", "под подозрением", "He left the company under a cloud after the scandal.", "C1"],
+  ["a breeze", "something very easy to do", "проще простого, легко как ветерок", "The interview was a breeze compared to what she expected.", "B1"],
+  ["steal someone's thunder", "to take credit or attention away from someone else's achievement", "перетянуть на себя чужую славу", "He announced the news early and stole her thunder.", "C1"],
+  ["once in a blue moon", "very rarely", "очень редко", "We only see snow here once in a blue moon.", "B1"],
+  ["a bolt from the blue", "a sudden, unexpected event or piece of news", "как гром среди ясного неба", "The resignation came as a bolt from the blue.", "B2"],
+  ["batten down the hatches", "to prepare for a difficult situation", "готовиться к трудностям", "With the deadline approaching, it's time to batten down the hatches.", "C1"],
+  ["under a dark cloud", "affected by worry, sadness, or a bad reputation", "под тенью печали или подозрения", "The team has been under a dark cloud since the layoffs.", "C2"],
+  ["as right as rain", "in good health or good condition", "в полном порядке", "After some rest, she was as right as rain again.", "B2"],
+  ["weather permitting", "if the weather conditions allow", "если позволит погода", "The picnic will happen on Saturday, weather permitting.", "A2"],
+  ["blow hot and cold", "to keep changing your opinion or attitude about something", "быть непостоянным, то холодно то жарко", "He keeps blowing hot and cold about joining the team.", "C1"],
+];

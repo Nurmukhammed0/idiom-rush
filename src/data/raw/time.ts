@@ -1,0 +1,27 @@
+import type { RawIdiom } from './types';
+
+export const TIME: RawIdiom[] = [
+  ["against the clock", "trying to finish something before a deadline", "наперегонки со временем", "The team worked against the clock to launch on time.", "B2"],
+  ["in the nick of time", "at the last possible moment, just in time", "в самый последний момент", "The ambulance arrived in the nick of time.", "B2"],
+  ["time is money", "time is a valuable resource, like money", "время - деньги", "Hurry up, time is money in this business.", "A2"],
+  ["once in a while", "occasionally, not very often", "иногда, время от времени", "We go to the cinema once in a while.", "A2"],
+  ["around the clock", "all day and night, continuously", "круглосуточно", "The factory operates around the clock.", "B1"],
+  ["kill time", "to spend time waiting doing something unimportant", "убивать время", "We played cards to kill time at the airport.", "A2"],
+  ["a race against time", "an effort to finish something before a critical deadline", "гонка со временем", "Doctors were in a race against time to save the patient.", "B2"],
+  ["in the blink of an eye", "very quickly, in a moment", "в мгновение ока", "The accident happened in the blink of an eye.", "B1"],
+  ["from time to time", "occasionally", "время от времени", "She visits her grandparents from time to time.", "A2"],
+  ["ahead of your time", "having ideas too advanced for the current period", "опередить своё время", "The inventor was clearly ahead of his time.", "B2"],
+  ["time flies when you're having fun", "time passes quickly when you enjoy what you're doing", "время летит незаметно, когда весело", "We talked for hours, time flies when you're having fun.", "A2"],
+  ["at the eleventh hour", "at the very last moment, just before a deadline", "в последний момент, в одиннадцатый час", "They reached an agreement at the eleventh hour.", "C1"],
+  ["a stitch in time saves nine", "fixing a problem early prevents bigger problems later", "предупреждение лучше лечения", "Fix that leak now, a stitch in time saves nine.", "B2"],
+  ["buy some time", "to delay something in order to gain more time", "выиграть время", "He asked for an extension to buy some time.", "B2"],
+  ["make up for lost time", "to do something to compensate for wasted time", "наверстать упущенное", "We drove faster to make up for lost time.", "B1"],
+  ["long time no see", "used to greet someone you haven't seen in a while", "сколько лет, сколько зим", "Long time no see! How have you been?", "A2"],
+  ["it's about time", "used to say something should have happened sooner", "давно пора", "It's about time you apologized to her.", "A2"],
+  ["a window of opportunity", "a limited period when something can be achieved", "окно возможностей", "There's a small window of opportunity to invest now.", "B2"],
+  ["beat the clock", "to finish something before a deadline", "успеть в срок", "The team worked hard to beat the clock and finish the report.", "B1"],
+  ["give someone a run for their money", "to make something difficult for a rival by performing very well", "составить серьёзную конкуренцию", "The young athlete gave the champion a run for his money.", "C1"],
+  ["down to the wire", "not decided until the very last moment", "до последней секунды, до конца неясно", "The election results went down to the wire.", "C1"],
+  ["a ballpark timeline", "a rough, approximate schedule", "приблизительные сроки", "Can you give me a ballpark timeline for the delivery?", "B2"],
+  ["for the time being", "for now, temporarily", "на данный момент, пока что", "We'll use the old system for the time being.", "B1"],
+];

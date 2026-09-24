@@ -1,0 +1,26 @@
+import type { RawIdiom } from './types';
+
+export const DECISIONS: RawIdiom[] = [
+  ["make up your mind", "to decide something", "принять решение", "I can't make up my mind about which one to buy.", "A2"],
+  ["weigh the pros and cons", "to consider the advantages and disadvantages", "взвесить все за и против", "Let's weigh the pros and cons before we sign the contract.", "B1"],
+  ["a gut feeling", "an instinct about what to do, without logical reason", "внутреннее чутьё", "My gut feeling told me not to trust him.", "B1"],
+  ["cross that bridge when you come to it", "to deal with a problem only when it happens", "решать проблемы по мере поступления", "We don't need to decide now, we'll cross that bridge when we come to it.", "B2"],
+  ["burn your bridges", "to make a decision that removes the possibility of returning", "сжечь мосты", "He burned his bridges by quitting without notice.", "B2"],
+  ["sit on the fence", "to avoid making a decision or choosing a side", "занимать нейтральную позицию", "He's still sitting on the fence about the proposal.", "B1"],
+  ["think twice", "to reconsider carefully before acting", "хорошенько подумать", "You should think twice before quitting your job.", "A2"],
+  ["a no-brainer", "a decision or choice that is very easy to make", "очевидное решение, не требующее раздумий", "Choosing the cheaper, better option was a no-brainer.", "B1"],
+  ["jump to conclusions", "to decide something too quickly, without enough information", "делать поспешные выводы", "Don't jump to conclusions before hearing the whole story.", "B1"],
+  ["the moment of truth", "the critical time when a decision or its result becomes clear", "момент истины", "The moment of truth arrived when the judges announced the winner.", "B2"],
+  ["put your foot down", "to firmly insist on something or refuse to allow something", "твёрдо настоять на своём", "Her mother finally put her foot down about the curfew.", "B2"],
+  ["a leap of faith", "a decision to try something without being sure it will work", "прыжок веры, шаг в неизвестность", "Starting the business was a real leap of faith.", "B2"],
+  ["go with your gut", "to make a decision based on instinct rather than analysis", "довериться интуиции", "When in doubt, just go with your gut.", "B1"],
+  ["the lesser of two evils", "the less harmful of two bad options", "меньшее из двух зол", "Voting for him felt like choosing the lesser of two evils.", "B2"],
+  ["a done deal", "a decision that is finalized", "решённый вопрос", "The contract is a done deal now.", "B2"],
+  ["give it some thought", "to think carefully about something before deciding", "хорошенько обдумать", "I'll give it some thought and let you know tomorrow.", "A2"],
+  ["draw the line", "to set a limit on what you will accept or do", "провести черту, установить предел", "I draw the line at working weekends.", "B2"],
+  ["take the plunge", "to decide to do something risky or important after hesitating", "решиться на важный шаг", "After years of saving, they finally took the plunge and bought a house.", "B2"],
+  ["at a crossroads", "at a point requiring an important decision", "на перепутье", "She's at a crossroads in her career.", "B2"],
+  ["a toss-up", "a situation where the outcome or choice is uncertain, almost 50/50", "как повезёт, почти равновероятно", "It's a toss-up between the two candidates.", "B2"],
+  ["read the writing on the wall", "to recognize that something bad is about to happen", "видеть, к чему всё идёт", "Employees read the writing on the wall before the layoffs were announced.", "C1"],
+  ["stick to your guns", "to maintain your position despite pressure to change", "стоять на своём", "Despite criticism, she stuck to her guns and finished the project her way.", "B2"],
+];
